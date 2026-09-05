@@ -1,0 +1,9 @@
+venv/
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+chroma_db/
+.vscode/
+Building_Conversational_RAG.ipynb
+*.log
